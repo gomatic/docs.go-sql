@@ -1,6 +1,7 @@
 ---
 title: go-sql
 ---
+
 **A thin, allocation-light Go layer over [pg_query](https://github.com/pganalyze/pg_query_go) for parsing PostgreSQL into its syntax tree, canonicalizing it, and deparsing it back to SQL — plus subpackages for formatting, AST-level diffing, and text normalization.** Every operation is a real PostgreSQL parse, so it understands the grammar rather than guessing at it, and every failure comes back as a matchable sentinel error.
 
 - **Source:** [gomatic/go-sql](https://github.com/gomatic/go-sql)
