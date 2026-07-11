@@ -9,7 +9,7 @@ title: go-sql
 
 ## Install
 
-```
+```sh
 go get github.com/gomatic/go-sql
 ```
 
